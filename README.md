@@ -6,7 +6,7 @@ Graduating in Software Engineering
 *   🌍  I'm based in Itacoatiara-Amazonas
 *   ✉️  You can contact me at [viniciusmelchior.vmls@gmail.com](mailto:viniciusmelchior.vmls@gmail.com)
 *   🚀  I'm currently working on [Skye Language](http://github.com/vnsantoxs/SkyeLang)
-*   🧠  I'm learning Python Framework FastApi
+*   🧠  I'm learning FastApi
 *   ⚡  I'm Prince of the Saiyans
 *   ### Skills 
 <p align="left">

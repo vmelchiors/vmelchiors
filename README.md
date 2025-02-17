@@ -7,7 +7,7 @@ I am an active member of **NAVIR** (*Automation, Computer Vision, Artificial Int
 
 Currently, I am deepening my knowledge in **Embedded Artificial Intelligence** and **Native Android Development**. 🚀
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies, Frameworks & Tools
 <!--tech -->
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2F4F4F)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2F4F4F)

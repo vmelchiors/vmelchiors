@@ -1,4 +1,4 @@
-![Hello, my name is Vinicius!](assets\top.png)
+![Hello, my name is Vinicius!](\assets\top.png)
 
 ## 🔥 About Me  
 I am a **Software Engineering** student in the **8th semester** at **ICET** (Institute of Exact and Technological Sciences) at the **Federal University of Amazonas - UFAM**.

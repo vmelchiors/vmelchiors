@@ -1,7 +1,7 @@
 ![Hello, my name is Vinicius!](top.png)
 
 ## 🔥 About Me  
-I am a **Software Engineering** student in the **8th semester** at **ICET** (Institute of Exact and Technological Sciences) at the **Federal University of Amazonas - UFAM**.
+I am a **Software Engineering** student in the **9th semester** at **ICET** (Institute of Exact and Technological Sciences) at the **Federal University of Amazonas - UFAM**.
 
 I am an active member of **NAVIR** (*Automation, Computer Vision, Artificial Intelligence, and Robotics Center*). I have experience in **software development**, with a focus on **backend**, using languages such as **Python** and **Kotlin**, and frameworks like **Django** and **Jetpack Compose**.
 
